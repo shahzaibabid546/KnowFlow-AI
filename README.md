@@ -20,5 +20,3 @@ Backend-only AI project built with FastAPI, LangChain, and LangGraph.
 - Support ticket escalation
 - Conversation/session handling
 
-### Run instructions
-Setup instructions will be added during Phase 1.
